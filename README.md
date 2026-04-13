@@ -49,7 +49,6 @@ Unsupervised learning successfully identified hidden patterns in the dataset. K-
 ## Tools & Libraries
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
