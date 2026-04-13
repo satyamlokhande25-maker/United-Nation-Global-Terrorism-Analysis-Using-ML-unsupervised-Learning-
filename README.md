@@ -8,7 +8,6 @@ This project applies unsupervised learning techniques on the Global Terrorism da
 The objective of this project is to use unsupervised learning to discover natural groupings in terrorist incidents and categorize them based on impact and severity.
 
 ## Dataset Features Used
-- iyear (Year)
 - nkill (Number of people killed)
 - nwound (Number of people wounded)
 - Total casualties (nkill + nwound)
