@@ -1,6 +1,9 @@
 
 # 🌍 Global Terrorism Analysis using Machine Learning & Power BI
-https://chatgpt.com/s/m_69eb56585384819184175365cf8e5942
+
+## Machine Learning Workflow
+
+![Machine Learning Process](https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/images/ml_process.png)
 
 ## 📌 Project Overview
 
