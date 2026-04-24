@@ -3,7 +3,7 @@
 
 ## Machine Learning Workflow
 
-![Machine Learning Process](https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/images/ml_process.png)
+![Machine Learning Process](https://github.com/satyamlokhande25-maker/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/54106c2be0e810b098253b8bada24f9deeea4520/ML-workflow.png)
 
 ## 📌 Project Overview
 
