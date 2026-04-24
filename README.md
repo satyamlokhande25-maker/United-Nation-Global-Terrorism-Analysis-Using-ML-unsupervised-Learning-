@@ -145,13 +145,7 @@ This page presents clustering results from K-Means model.
 * Average Casualties
 * Maximum Casualties
 
-### Visualizations
 
-* KMeans Cluster Scatter Plot
-* Severity Distribution Chart
-* Cluster Count Comparison
-* Casualty Analysis
-* Severity Insights
 
 ---
 
