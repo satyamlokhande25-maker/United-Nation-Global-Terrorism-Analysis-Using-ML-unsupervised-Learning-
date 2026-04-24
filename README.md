@@ -107,11 +107,11 @@ K-Means clustering was selected as the best performing algorithm because:
 # 📊 Power BI Dashboard
 
 The Power BI dashboard is divided into two main pages:
-![Power Bi DashBoard](https://github.com/satyamlokhande25-maker/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/052806512721c6df5f4dd3799bb053341710b010/Powerbi-dashBoard.png)
 
 ---
 
 # 📍 Page 1 — EDA Dashboard
+![Power Bi DashBoard](https://github.com/satyamlokhande25-maker/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/052806512721c6df5f4dd3799bb053341710b010/Powerbi-dashBoard.png)
 
 ### Cards
 
