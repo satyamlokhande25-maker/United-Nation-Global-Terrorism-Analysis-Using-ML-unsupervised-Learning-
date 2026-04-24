@@ -1,5 +1,6 @@
 
 # 🌍 Global Terrorism Analysis using Machine Learning & Power BI
+https://chatgpt.com/s/m_69eb56585384819184175365cf8e5942
 
 ## 📌 Project Overview
 
@@ -125,9 +126,6 @@ The Power BI dashboard is divided into two main pages:
 * Region-wise Analysis
 * Terrorist Group Table
 
-### Dashboard Preview
-
-![EDA Dashboard](images/page1.png)
 
 ---
 
@@ -151,10 +149,6 @@ This page presents clustering results from K-Means model.
 * Cluster Count Comparison
 * Casualty Analysis
 * Severity Insights
-
-### ML Dashboard Preview
-
-![ML Dashboard](images/page2.png)
 
 ---
 
@@ -203,18 +197,5 @@ K-Means clustering provided the most interpretable and meaningful severity-based
 
 ---
 
-# 📎 Project Structure
-
-```
-Global-Terrorism-Analysis
-│
-├── dataset
-├── notebooks
-├── powerbi
-├── images
-│   ├── page1.png
-│   └── page2.png
-├── README.md
-```
 
 
