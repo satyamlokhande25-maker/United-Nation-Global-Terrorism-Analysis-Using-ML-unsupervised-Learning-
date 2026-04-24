@@ -134,7 +134,7 @@ The Power BI dashboard is divided into two main pages:
 ---
 
 # 📍 Page 2 — Machine Learning Dashboard
-
+![Machine Learning Dashboard](https://github.com/satyamlokhande25-maker/United-Nation-Global-Terrorism-Analysis-Using-ML-unsupervised-Learning-/blob/792448fd8e711da84068224791ef81def75ae4bc/PowerBiPage2.png)
 This page presents clustering results from K-Means model.
 
 ### Cards
