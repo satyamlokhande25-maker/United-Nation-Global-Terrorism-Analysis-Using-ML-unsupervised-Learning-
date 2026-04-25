@@ -106,7 +106,7 @@ K-Means clustering was selected as the best performing algorithm because:
 
 # 📊 Power BI Dashboard
   
-# Power BI Dashboard Link
+# Power BI Dashboard zip Link
 https://ais-pre-jnb4wxtkylcgnk4vv3452c-274181117707.asia-southeast1.run.app
 
 
